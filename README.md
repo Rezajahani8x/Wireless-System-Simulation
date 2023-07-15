@@ -4,8 +4,7 @@ In this project a wireless system with a base station is simulated and some para
 This project consist of 2 sections. Each section is described below.
 
 - Section 1
-    * In this section according to different types of available fading, the channel is simulated and some parameters regarding the received power and ... are  
-       calcaulated.
+    * In this section according to different types of available fading, the channel is simulated and some parameters regarding the received power and ... are calcaulated.
     * Coverage area for the base station is calculated.
 
 - Section 2
